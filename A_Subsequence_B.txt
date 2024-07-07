@@ -1,0 +1,7 @@
+### Explanation:
+1. **Find Common and Missing Elements:** We use sets to find common elements in A and B, and also elements in A that are missing in B.
+2. **Initialize Index Array:** An array is initialized to store the indices of elements in A. We sort this array to maintain the order of appearance in A.
+3. **Ordered Common Elements:** We create a list of common elements in the order they appear in A.
+4. **Frequency Calculation:** We calculate the frequency of common elements in B.
+5. **Count Matches:** Using a while loop and nested for loop, we traverse through the common elements(C) to count how many of them can be matched in B. We update frequencies(to handle duplicates in B) and track the maximum length subsequence of matched elements.
+6. **Return Result:** Finally, we return the number of elements that need to be added to B to make A a subsequence of B. This is calculated as the difference between the length of A and the maximum count of matched elements.

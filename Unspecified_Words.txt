@@ -1,0 +1,11 @@
+5   3 
+cat 
+map 
+bat
+man
+pen
+4
+?at
+ma?
+?a?
+??n
