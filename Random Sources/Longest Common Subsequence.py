@@ -2,11 +2,16 @@
 
 def lcs(x,y,m,n,dp):
 
+    #If there are no more characters in x or y remaining to be considered
     if(m==0 or n==0):
         dp[0][0]=0
         return dp[0][0]
+    
+    #Do not solve the same subproblem again
     elif(dp[m][n]!=-1):
        return dp[m][n]
+    
+    #Starting from the last character of each string
     elif(x[m-1]==y[n-1]):
         dp[m][n]=1+lcs(x,y,m-1,n-1,dp)
         return dp[m][n]
