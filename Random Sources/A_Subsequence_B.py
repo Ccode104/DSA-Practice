@@ -1,8 +1,6 @@
 def min_elements_to_add(A, B, n, m):
     # Find the common elements in both A and B
     common_elements = set(A).intersection(set(B))
-    # Find elements in A that are missing in B
-    missing_in_B = set(A).difference(common_elements)
     
     # Initialize an array to store the index of elements in A
     index_array = [1000000] * (max(common_elements) + 1)
