@@ -1,6 +1,6 @@
 class Solution:
     # Function to return a list of integers denoting spiral traversal of matrix.
-    # Approach : Solve the problem for a Square Matrix first
+    # Approach : Solve the problem for a Square Matrix first  
     def spirallyTraverse(self, matrix):
         # code here
         
