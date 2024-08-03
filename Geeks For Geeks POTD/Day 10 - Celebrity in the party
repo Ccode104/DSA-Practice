@@ -1,0 +1,56 @@
+class Solution:
+    def celebrity(self, mat):
+        # code here
+        
+        dim=len(mat)
+        
+        # The row with all 0s(Knows none )
+        index=-1
+        
+        # The celebrity
+        result=-1
+        
+        # Find the row with all 0s
+        for i in range(dim):
+            if(mat[i].count(1)==0):
+                index=i
+                break
+     
+        # If he know atleast one person
+        if(index==-1):
+            result=-1
+        else:
+            flag=0
+            
+            # The index'th col with only one 0 at diagonal 
+            for j in range(dim):
+                if(mat[j][index]==1):
+                    pass
+                elif(j==index):
+                    pass
+                else:
+                    flag=1
+                    break
+                
+            if(flag==0):
+                result=index
+            else:
+                result=-1
+        return result
+
+
+#{ 
+ # Driver Code Starts
+# Main function to handle input and output
+if __name__ == "__main__":
+    t = int(input())
+    for _ in range(t):
+        n = int(input())
+        M = []
+        for _ in range(n):
+            M.append(list(map(int, input().split())))
+
+        ob = Solution()
+        print(ob.celebrity(M))
+
+# } Driver Code Ends
