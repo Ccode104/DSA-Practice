@@ -16,21 +16,10 @@ Welcome to the **Pattern-Based Problems** section of the DSA Practice repository
 
 ## Pattern Problems
 
-### 1. Star Patterns
-
 | Problem Name                  | Solution Link                                                                 | Coding Platform Link                              | Platform Name |
 |-------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------|---------------|
-| Right-Angled Triangle         | [Solution](./Star%20Patterns/RightAngledTriangle.cpp)                         | [Problem](https://example.com/right-angled-triangle) | Example Platform |
-| Inverted Right-Angled Triangle| [Solution](./Star%20Patterns/InvertedRightAngledTriangle.cpp)                 | [Problem](https://example.com/inverted-triangle)   | Example Platform |
-| Pyramid Pattern               | [Solution](./Star%20Patterns/PyramidPattern.cpp)                              | [Problem](https://example.com/pyramid-pattern)     | Example Platform |
-| N-Dimensional Forest          | [Solution](./Star%20Patterns/NDimensionalForest.cpp)                          | [Problem](https://example.com/n-dimensional-forest)| Example Platform |
+| N-Dimensional Forest          | [Solution](./Star%20Patterns/NDimensionalForest.cpp)                          | [Problem](https://www.naukri.com/code360/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems)| Coding Ninja |
 
-### 2. Number Patterns
-
-| Problem Name                  | Solution Link                                                                 | Coding Platform Link                              | Platform Name |
-|-------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------|---------------|
-| Number Triangle               | [Solution](./Number%20Patterns/NumberTriangle.cpp)                            | [Problem](https://example.com/number-triangle)     | Example Platform |
-| Reverse Number Triangle       | [Solution](./Number%20Patterns/ReverseNumberTriangle.cpp)                     | [Problem](https://example.com/reverse-triangle)    | Example Platform |
 
 ---
 
