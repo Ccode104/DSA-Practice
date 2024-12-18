@@ -20,6 +20,7 @@ Welcome to the **Pattern-Based Problems** section of the DSA Practice repository
 |-------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------|---------------|
 | N-Dimensional Forest          | [Solution](./Star%20Patterns/NDimensionalForest.cpp)                          | [Problem](https://www.naukri.com/code360/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems)| Coding Ninja |
 | Star Triangle          | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Pattern%20based%20problems/Star%20Triangle.cpp)                         | [Problem](https://www.naukri.com/code360/problems/star-triangle_6573671?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems&leftPanelTabValue=SUBMISSION)| Coding Ninja |
+| Reverse Star Triangle          | [Solution]([https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Pattern%20based%20problems/Star%20Triangle.cpp](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Pattern%20based%20problems/Reverse%20Star%20Triangle.cpp))                         | [Problem]([https://www.naukri.com/code360/problems/star-triangle_6573671?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems&leftPanelTabValue=SUBMISSION](https://www.naukri.com/code360/problems/reverse-star-triangle_6573685?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems&leftPanelTabValue=SUBMISSION))| Coding Ninja |
 
 
 ---
