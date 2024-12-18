@@ -29,6 +29,7 @@ Welcome to the **Striver A2Z Sheet Problems** section of the DSA Practice reposi
 |-------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------|---------------|
 | Selection Sort          | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Learn%20Important%20Sorting%20Techniques/Sorting-I/Selection%20Sort.cpp)                          | [Problem](https://www.geeksforgeeks.org/problems/selection-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=selection-sort)| GFG |
 | Bubble Sort          | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Learn%20Important%20Sorting%20Techniques/Sorting-I/Bubble%20Sort.cpp)                          | [Problem](https://www.geeksforgeeks.org/problems/bubble-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bubble-sort)| GFG |
+| Insertion Sort          | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Learn%20Important%20Sorting%20Techniques/Sorting-I/Insertion%20Sort.cpp)                          | [Problem](https://www.geeksforgeeks.org/problems/insertion-sort/0?category%5B%5D=Algorithms&page=1&query=category%5B%5DAlgorithmspage1&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=insertion-sort)| GFG |
 
 
 ---
