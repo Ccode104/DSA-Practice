@@ -19,6 +19,7 @@ Welcome to the **Pattern-Based Problems** section of the DSA Practice repository
 | Problem Name                  | Solution Link                                                                 | Coding Platform Link                              | Platform Name |
 |-------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------|---------------|
 | N-Dimensional Forest          | [Solution](./Star%20Patterns/NDimensionalForest.cpp)                          | [Problem](https://www.naukri.com/code360/problems/n-forest_6570177?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems)| Coding Ninja |
+| Star Triangle          | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Pattern%20based%20problems/Star%20Triangle.cpp)                         | [Problem](https://www.naukri.com/code360/problems/star-triangle_6573671?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_patternproblems&leftPanelTabValue=SUBMISSION)| Coding Ninja |
 
 
 ---
