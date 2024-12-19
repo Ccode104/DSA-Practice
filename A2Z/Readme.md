@@ -12,6 +12,7 @@ Welcome to the **Striver A2Z Sheet Problems** section of the DSA Practice reposi
 ## Table of Contents
 - [Pattern Problems](#pattern-problems)
 - [Sorting Problems](#sorting-problems)
+- [Arrays](#arrays)
 ---
 
 ## Pattern Problems
@@ -32,7 +33,11 @@ Welcome to the **Striver A2Z Sheet Problems** section of the DSA Practice reposi
 | Insertion Sort          | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Learn%20Important%20Sorting%20Techniques/Sorting-I/Insertion%20Sort.cpp)                          | [Problem](https://www.geeksforgeeks.org/problems/insertion-sort/0?category%5B%5D=Algorithms&page=1&query=category%5B%5DAlgorithmspage1&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=insertion-sort)| GFG |
 | Merge Sort          | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Learn%20Important%20Sorting%20Techniques/Sorting-II/Merge%20Sort.cpp)                          | [Problem](https://www.geeksforgeeks.org/problems/merge-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=merge-sort)| GFG |
 
+## Arrays
 
+| Problem Name                  | Solution Link                                                                 | Coding Platform Link                              | Platform Name |
+|-------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------|---------------|
+| Largest Element in Array          | [Solution](https://github.com/Ccode104/DSA-Practice/tree/master/A2Z/Solve%20Problems%20Based%20on%20Arrays/Easy)                          | [Problem](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array)| GFG |
 
 ---
 
