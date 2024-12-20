@@ -41,7 +41,7 @@ Welcome to the **Striver A2Z Sheet Problems** section of the DSA Practice reposi
 | Second Largest          | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Solve%20Problems%20Based%20on%20Arrays/Easy/Second%20Largest.cpp)                          | [Problem](https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest)| GFG |
 | Check if the array is sorted          | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Solve%20Problems%20Based%20on%20Arrays/Easy/Check%20if%20the%20array%20is%20sorted.cpp)                          | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)| Leetcode |
 | Remove Duplicate         | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Solve%20Problems%20Based%20on%20Arrays/Easy/Remove%20Duplicates.cpp)                          | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| Leetcode |
-
+| Rotate Array         | [Solution](https://github.com/Ccode104/DSA-Practice/blob/master/A2Z/Solve%20Problems%20Based%20on%20Arrays/Easy/Rotate%20Array.cpp)                          | [Problem](https://leetcode.com/problems/rotate-array/description/?source=submission-noac)| Leetcode |
 
 
 ---
